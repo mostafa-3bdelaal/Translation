@@ -54,7 +54,7 @@ https://huggingface.co/settings/tokens
 ## ▶️ Run App
 
 ```bash
-python app.py
+python -m gradio app.py
 ```
 
 ---
